@@ -1,4 +1,4 @@
-console.log("hi everybody!");
+console.log("hi everybody it's me!");
 
 export default function SiteHeader() {
   return (
