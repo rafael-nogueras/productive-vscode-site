@@ -1,7 +1,9 @@
+import { trackGoal } from "./helpers/trackGoals";
+
 export default function Pricing({ coupon, discount, price }) {
   function trackForFathom() {
     try {
-      trackGoal("?????", price * 100); // fathom wants it in cents
+      trackGoal('hello' + 'there', 'bye')
     } catch (e) {}
   }
 

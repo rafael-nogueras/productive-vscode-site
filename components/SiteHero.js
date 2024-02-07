@@ -31,6 +31,7 @@ export default function SiteHero() {
   );
 }
 
+
 function One() {
   return (
     <div className="inline-block relative">
@@ -51,3 +52,5 @@ function One() {
     </div>
   );
 }
+
+One(undefined);

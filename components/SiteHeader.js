@@ -5,7 +5,10 @@ export default function SiteHeader() {
     <nav className="py-10 text-gray-700">
       <div className="px-8 flex justify-between items-center">
         {/* logo */}
-        <div className="flex items-center">
+        <div 
+        
+        
+        className="flex items-center">
           <a
             href="#"
             className="block pt-6 pb-4 px-4 fancy font-extrabold tracking-tighter text-2xl leading-none text-black"
