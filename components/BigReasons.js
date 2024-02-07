@@ -4,7 +4,7 @@ export default function BigReasons() {
       {/* absolute rectangles */}
       <div className="absolute -top-5 right-0 h-24 w-48 rounded-lg bg-gradient-to-br from-gray-600 to-gray-800"></div>
       <div className="absolute -top-12 right-8 h-20 w-20 rounded-lg bg-gradient-to-br from-indigo-500 to-purple-500"></div>
-
+components/BigReasons.js
       <div className="relative mb-20 space-y-5">
         <h2 className="font-bold text-gray-800 text-6xl">
           Learn VS Code and you'll:
